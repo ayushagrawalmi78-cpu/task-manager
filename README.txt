@@ -65,4 +65,4 @@ Submission checklist:
 - Demo video: record a 2-5 minute walkthrough covering signup/login, project creation, adding a member, creating/assigning tasks, changing statuses, dashboard stats, and admin/member restrictions.
 
 Author:
-Ayush Agrawal
+Ayush
